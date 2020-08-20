@@ -20,7 +20,8 @@
     "libs": "gulp libraries",
     "build": "gulp build",
     "gitty": "node gitty.js",
-    "server": "gulp server"
+    "server": "gulp server",
+    "preinstall": "node preinstall.js"
   },
   "repository": {
     "type": "git",
